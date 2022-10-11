@@ -11,3 +11,8 @@ BUENAS
 featureA!
 
 goooooooooool
+<<<<<<< HEAD
+=======
+dasdasdad
+holaa
+>>>>>>> feature-A
